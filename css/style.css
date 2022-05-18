@@ -1,0 +1,14 @@
+*{
+	font-family:verdana, arial;
+}
+body{
+	background-color:pink;
+}
+#image-about img{
+	width: 30%;
+	margin-top:20px;
+	margin-bottom: 20px;
+}
+#image-about{
+	width: 40%;
+}
